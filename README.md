@@ -1,2 +1,2 @@
 # IOS-portfolioAtAGlance
-This PDF contains screenshots of the various IOS applications I have built. 
+This PDF is a brief look at the various IOS applications I have built.
